@@ -1,0 +1,15 @@
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\bin\Debug\netcoreapp3.1\WFApp1.exe
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\bin\Debug\netcoreapp3.1\WFApp1.deps.json
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\bin\Debug\netcoreapp3.1\WFApp1.runtimeconfig.json
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\bin\Debug\netcoreapp3.1\WFApp1.runtimeconfig.dev.json
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\bin\Debug\netcoreapp3.1\WFApp1.dll
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\bin\Debug\netcoreapp3.1\WFApp1.pdb
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.csprojAssemblyReference.cache
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.Form1.resources
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.csproj.GenerateResource.cache
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.AssemblyInfoInputs.cache
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.AssemblyInfo.cs
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.csproj.CoreCompileInputs.cache
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.dll
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.pdb
+C:\Users\fsp\ownCloud\tmp\UC\PMU\src\PL02C1\WFApp1\WFApp1\obj\Debug\netcoreapp3.1\WFApp1.genruntimeconfig.cache
