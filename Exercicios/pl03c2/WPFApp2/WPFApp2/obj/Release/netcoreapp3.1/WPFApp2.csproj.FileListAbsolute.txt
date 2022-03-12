@@ -1,0 +1,5 @@
+C:\Users\fsp\source\repos\PMU\PL\aula02\WPFApp2\WPFApp2\obj\Release\netcoreapp3.1\WPFApp2.csprojAssemblyReference.cache
+C:\Users\fsp\source\repos\PMU\PL\aula02\WPFApp2\WPFApp2\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\fsp\source\repos\PMU\PL\aula02\WPFApp2\WPFApp2\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\fsp\source\repos\PMU\PL\aula02\WPFApp2\WPFApp2\obj\Release\netcoreapp3.1\WPFApp2_MarkupCompile.cache
+C:\Users\fsp\source\repos\PMU\PL\aula02\WPFApp2\WPFApp2\obj\Release\netcoreapp3.1\WPFApp2_MarkupCompile.lref

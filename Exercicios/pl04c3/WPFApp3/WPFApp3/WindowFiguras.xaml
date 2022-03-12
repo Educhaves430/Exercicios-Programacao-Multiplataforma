@@ -1,0 +1,27 @@
+﻿<Window x:Class="WPFApp3.WindowFiguras"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp3"
+        mc:Ignorable="d"
+        Title="Figuras" Height="100" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="0" Margin="8" Text="Figura:" />
+        <ComboBox x:Name="cbFiguras" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Width="100" Height="24" Margin="8">
+            <ComboBoxItem Content="Quadrado" />
+            <ComboBoxItem Content="Retangulo" />
+            <ComboBoxItem Content="Circulo" />
+            <ComboBoxItem Content="Elipse" />
+        </ComboBox>
+        <Button x:Name="btAdicionar" HorizontalAlignment="Left"  VerticalAlignment="Center" Grid.Column="2"  Width="100" Height="24" Margin="8" Content="Adicionar" Click="btAdicionar_Click"/>
+    </Grid>
+</Window>
