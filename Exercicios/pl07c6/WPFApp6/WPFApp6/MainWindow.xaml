@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPFApp6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp6"
+        mc:Ignorable="d"
+        Title="Manipulação de Ficheiros" Height="400" Width="400">
+    <Grid>
+        <TextBox x:Name="tbConteudo" IsEnabled="False" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" Height="310" VerticalScrollBarVisibility="Visible" AcceptsReturn="True">
+            <TextBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Abrir" Click="btAbrir_Click" />
+                    <MenuItem Header="Guardar" Click="btGuardar_Click" />
+                    <Separator />
+                    <MenuItem Command="Cut" />
+                    <MenuItem Command="Copy" />
+                    <MenuItem Command="Paste" />
+                </ContextMenu>
+            </TextBox.ContextMenu>
+        </TextBox>
+        <Button x:Name="btAbrir" Content="Abrir" HorizontalAlignment="Left" Margin="100,330,0,0" VerticalAlignment="Top" Width="80" Height="24" Click="btAbrir_Click" />
+        <Button x:Name="btGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="200,330,0,0" VerticalAlignment="Top" Width="80" Height="24" Click="btGuardar_Click" />
+    </Grid>
+</Window>
