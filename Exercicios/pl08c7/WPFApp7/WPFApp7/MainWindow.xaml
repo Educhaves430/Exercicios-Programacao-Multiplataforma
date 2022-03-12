@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPFApp7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp7"
+        mc:Ignorable="d"
+        Title="Gestão de Texto" Height="280" Width="300">
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Texto:" VerticalAlignment="Top" />
+        <TextBox x:Name="tbLine" HorizontalAlignment="Left" Height="20" Margin="56,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <Button x:Name="btInsert" Content="Inserir" HorizontalAlignment="Left" Margin="192,10,0,0" VerticalAlignment="Top" Width="80" Click="btInsert_Click"/>
+        <ListBox x:Name="lbLines" HorizontalAlignment="Left" Height="180" Margin="10,48,0,0" VerticalAlignment="Top" Width="260"/>
+    </Grid>
+</Window>

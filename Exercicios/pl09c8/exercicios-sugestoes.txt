@@ -1,0 +1,21 @@
+Universidade
+ -> Nome
+ -> Escolas[]
+
+
+Escola
+ -> Nome
+ -> Cursos[]
+ 
+Curso
+ -> Nome
+ -> NAlunos
+ -> Grau (int) <- Combo Grau
+ 
+
+Grau
+ -> Graus[] (string)
+ 
+ 
+View
+  ComboBox  x 3 (Combo Escola -> Combo Curso -> Combo Grau)
